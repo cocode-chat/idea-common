@@ -2,6 +2,8 @@
 name = "idea-common"
 version = "0.1.0"
 edition = "2024"
+description = "ideabase common code"
+license = "Apache-2.0"
 
 [dependencies]
 log = {  version = "0.4" }
